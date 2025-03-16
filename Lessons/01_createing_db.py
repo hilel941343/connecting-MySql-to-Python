@@ -10,6 +10,7 @@ my_db = mysql.connector.connect(
 cursor = my_db.cursor()
 cursor.execute("select * from Students;")
 res = cursor.fetchone()
+print("(ID(PRIMARY KEY)|NAME|AVERAGE)")
 while res is not None:
     print(res)
     res = cursor.fetchone()
