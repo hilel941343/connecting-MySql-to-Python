@@ -16,5 +16,5 @@ update|delete|insert to my db with Python.
 https://youtu.be/jZ2PNVJuL4o?si=9bfjk4cnaroenIUF
 
 
-דאקS
+
 
