@@ -28,3 +28,4 @@ These operations are executed using Python's mysql.connector library.
 # 🎥 Additional Resource
 For Hebrew speakers, I also followed this helpful YouTube guide that walks through the entire process:
 https://youtu.be/jZ2PNVJuL4o?si=9bfjk4cnaroenIUF
+.
